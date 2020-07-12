@@ -68,7 +68,9 @@ Das dann starten, um einen neuen Container damit zu erstellen. Hier unter erweit
 Dann starten lassen. Beim ersten Start dauert es etwas aber nach 1-2 minten sollte man auf http://nas:3000/ gehen können.
 User/Passwort ist beim ersten Mal jeweils admin und kann/sollte geändert werden.
 
-Den Rest bitte aus dem Orginal-Beitrag entnehmen.
+Damit hat man eine laufende Version mit collectd, influxdb und grafana sowie dem vorkonfigurierten Dashboard "FRITZ!Box Router Status".
+
+Details bitte aus dem Orginal-Beitrag entnehmen, aber eigentlich sollte nichts weiter zu tun sein.
 
 ---
 
